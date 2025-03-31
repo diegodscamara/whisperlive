@@ -1,0 +1,5 @@
+sounddevice>=0.4.6
+numpy>=1.24.0
+openai-whisper>=20231117
+wave>=0.0.2
+pathlib>=1.0.1 
